@@ -1,6 +1,6 @@
 ## ReactJS Crash Course
 
-An experimental project made to explore ReactJS. Following [this tutorial](https://www.youtube.com/watch?v=A71aqufiNtQ).
+An experimental project made to explore ReactJS, following [this tutorial](https://www.youtube.com/watch?v=A71aqufiNtQ).
 
 ## How to use
 
